@@ -1,0 +1,17 @@
+# Road Sign Recognition Web App
+
+This project is a deep learning-based road sign recognition system using AlexNet and CNN architectures. Built with TensorFlow and deployed using Gradio.
+
+## 👥 Team Members
+- Hina Nazir
+- [Your teammate name]
+- [Another name]
+
+## 🚀 Features
+- Upload road sign images
+- Choose between AlexNet and CNN models
+- Web interface using Gradio
+
+## 🧠 Models Used
+- `Best_alex.h5`
+- `best_CNN_model.h5`
